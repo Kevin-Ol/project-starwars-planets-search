@@ -1,4 +1,5 @@
 # Projeto Star Wars Planet Search
+![starwars](https://user-images.githubusercontent.com/82068881/132109715-14cc34d7-8663-4f83-bfb9-9f2762e274c4.png)
 
 ***
 Você pode acessar o site no ar [aqui](https://kevin-ol.github.io/project-starwars-planets-search).
